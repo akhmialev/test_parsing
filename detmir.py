@@ -25,7 +25,6 @@ def fetch(url, params):
     headers = params['headers']
     return requests.get(url, headers=headers)
 
-
 for city in citys:
     lenghts = fetch("https://api.detmir.ru/v2/products?filter=categories["
                     f"].alias:lego;promo:false;withregion:RU-{city}&expand=meta.facet.ages.adults,meta.facet.gender.adults,"
