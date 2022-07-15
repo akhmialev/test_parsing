@@ -1,4 +1,4 @@
-## Get data about all products of one category from the site catalog. You can take any category, the main thing is that there are more than 500 products in it. All data must be collected for Moscow and St. Petersburg.
+### Get data about all products of one category from the site catalog. You can take any category, the main thing is that there are more than 500 products in it. All data must be collected for Moscow and St. Petersburg.
 
 Required to extract:
 
